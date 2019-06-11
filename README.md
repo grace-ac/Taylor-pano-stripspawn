@@ -13,5 +13,5 @@ Grace's notebook posts:
 - [One day experiment](https://grace-ac.github.io/egg-development/)
 
 ### Trial Run 2 of KCl dosage experiment, now with duration:     
-- [Day 1]()
+- [Day 1](https://grace-ac.github.io/round2-geostripspawn-day1/)
 - [Day 2]()
